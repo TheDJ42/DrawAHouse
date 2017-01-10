@@ -38,6 +38,7 @@
             this.ClientSize = new System.Drawing.Size(784, 741);
             this.Name = "Form1";
             this.Text = "Draw a House";
+            this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
             this.ResumeLayout(false);
 
         }
