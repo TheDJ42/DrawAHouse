@@ -35,7 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(784, 741);
+            this.ClientSize = new System.Drawing.Size(784, 762);
             this.Name = "Form1";
             this.Text = "Draw a House";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
